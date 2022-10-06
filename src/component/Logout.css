@@ -1,0 +1,14 @@
+.logout-btn{
+    padding: 10px;
+    width: 100px;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: rgb(174, 100, 78);
+}
+.logout{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
