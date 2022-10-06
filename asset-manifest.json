@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LoginStstem-reduxToolkit/static/css/main.cffb22d4.css",
+    "main.js": "/LoginStstem-reduxToolkit/static/js/main.d777dea0.js",
+    "static/js/787.0bca8be2.chunk.js": "/LoginStstem-reduxToolkit/static/js/787.0bca8be2.chunk.js",
+    "index.html": "/LoginStstem-reduxToolkit/index.html",
+    "main.cffb22d4.css.map": "/LoginStstem-reduxToolkit/static/css/main.cffb22d4.css.map",
+    "main.d777dea0.js.map": "/LoginStstem-reduxToolkit/static/js/main.d777dea0.js.map",
+    "787.0bca8be2.chunk.js.map": "/LoginStstem-reduxToolkit/static/js/787.0bca8be2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cffb22d4.css",
+    "static/js/main.d777dea0.js"
+  ]
+}
